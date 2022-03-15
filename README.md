@@ -1,5 +1,9 @@
 # ORteaching
 
+Cours d'initation à la Recherche Opérationnelle distribué sous licence CC-BY-NC-SA
+
+Issu et étendu d'enseignements donnés à l'ENSTA Paris, Polytech' Paris-Saclay, et à l'université Paris-Saclay
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
@@ -10,3 +14,8 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+Chapitres Introductifs (optionnels), optimisation continue en dimension 1 et N:
+- OA00-OptimDimension1.pdf
+- OA0-OptimDimensionN.pdf
+
