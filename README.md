@@ -17,7 +17,7 @@ This work is licensed under a
 A partir de mes cours de Recherche Opérationnelle (RO) et d'Optimisation Discrète à l'ENSTA Paris, Polytech' Paris-Saclay, et à l'université Paris-Saclay, 
 Ce cours est une version unifiée et étendue de mon cours de Recherche Opérationnelle et Optimisation Discrète de mes cours de Recherche Opérationnelle (RO) et d'Optimisation Discrète à l'ENSTA Paris, Polytech' Paris-Saclay, et à l'université Paris-Saclay. 
 
-Le cours initial de l'ENSTA était conçu pour les ingénieurs : sensibilisation aux notions fondamentales et les outils de la RO dans une optique utilisateur ou pouvoir dialoguer avec des experts de la RO. Enseigner un cours similaire à des étudiants sélectionnés de double licence mathématiques et informatique m'a amener à développer plus de liens et des ponts avec la rigueur mathématique et des bases solides d'algorithmique et de programmation informatique.
+Le cours initial de l'ENSTA était conçu pour les ingénieurs : sensibilisation aux notions fondamentales et les outils de la RO dans une optique utilisateur ou pouvoir dialoguer avec des experts de la RO. Enseigner un cours similaire à des étudiants sélectionnés de double licence mathématiques et informatique m'a amené à développer plus de liens et des ponts avec la rigueur mathématique et des bases solides d'algorithmique et de programmation informatique.
 
 
 Le programme de ce cours est organisé comme suit dans la version en ligne.
