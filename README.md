@@ -48,7 +48,7 @@ La dernière partie du cours OA se concentre sur les algorithmes de recherche ar
 
 
 Un autre cours porte sur l'initiation aux méta-heuristiques pour l'optimisation combinatoire, comme application de la programmation parallèle et distribuée avec MPI (Message Passing Interface):
-- MPI-MH.pdf
+- [MPI-MH.pdf](https://github.com/ndupin/ORteaching/blob/main/MPI-MH.pdf) 
 
 Pour la partie MPI, le cours est classique et non mis en ligne. Je réfère au cours de Frank Nielsen de l'Ecole Polytechnique, avec un excellent polycopié en français :
 https://www.researchgate.net/publication/326234797_Traitement_des_donnees_massives_INF442
