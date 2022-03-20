@@ -27,7 +27,7 @@ Deux chapitres introductifs sont facultatifs, pour rappeler ou mentionner des r�
 
 
 - [OA00-OptimDimension1.pdf](https://github.com/ndupin/ORteaching/blob/main/OA00-OptimDimension1.pdf) : rappel des propriétés et difficultés générales de l'optimisation continue en dimension un (une variable)
-- OA0-OptimDimensionN.pdf : de l'optimisation sans contrainte à l'optimisation avec contraintes et algorithmes numériques pour l'optimisation dans R^n.
+- [OA0-OptimDimensionN.pdf](https://github.com/ndupin/ORteaching/blob/main/OA0-OptimDimensionN.pdf)  : de l'optimisation sans contrainte à l'optimisation avec contraintes et algorithmes numériques pour l'optimisation dans R^n.
 
 
 La première partie du cours traite des fondements de l'optimisation discrète et linéaire, premiers résultats et algorithmes fondamentaux et techniques de modélisation pour l'optimisation linéaire:
@@ -36,7 +36,7 @@ La première partie du cours traite des fondements de l'optimisation discrète e
 - [OA2-ProgDynamique.pdf](https://github.com/ndupin/ORteaching/blob/main/OA2-ProgDynamique.pdf) : algorithmes de programmation dynamique pour l'optimisation combiantoire, études de cas : problèmes de sacs à dos, plus court chemins, voyageur de commerce, clustering 1D et application industrielle de plannings d' horaires de train
 - OA3-PL-dualite.pdf : résolution de PL : résolution graphique à deux variables, algorithme du simplexe, éléments de théorie de la dualité
 - [OA4-model-PLNE.pdf](https://github.com/ndupin/ORteaching/blob/main/OA4-model-PLNE.pdf) : techniques générales pour linéariser et modéliser des problèmes d'optimisation complexes comme des PL/PLNE, applications aux problèmes d'affectation, de clustering, ordonnancement, et application à la production d'électricité.
-- OA5-optim-graphes-PLNE.pdf : Modélisation PLNE de problèmes d'optimisation de graphes : couvertures, colorations, cliques maximales/ensembles indépendants, plus court chemins, voyageur de commerce. Présentation d'heuristiques simples et utilisation de la théorie PL pour l'optimisation des graphes.
+- [OA5-optim-graphes-PLNE.pdf](https://github.com/ndupin/ORteaching/blob/main/OA5-optim-graphes-PLNE.pdf) : Modélisation PLNE de problèmes d'optimisation de graphes : couvertures, colorations, cliques maximales/ensembles indépendants, plus court chemins, voyageur de commerce. Présentation d'heuristiques simples et utilisation de la théorie PL pour l'optimisation des graphes.
 
 
 La dernière partie du cours OA se concentre sur les algorithmes de recherche arborescentes  pour l'optimisation combinatoire, principalement les variantes de l'algorithme Branch&Bound.
