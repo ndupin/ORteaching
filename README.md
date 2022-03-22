@@ -31,7 +31,7 @@ Deux chapitres introductifs sont facultatifs, pour rappeler ou mentionner des r�
 
 La première partie du cours traite des fondements de l'optimisation discrète et linéaire, premiers résultats et algorithmes fondamentaux et techniques de modélisation pour l'optimisation linéaire:
 
-- [OA1-optim-complexite.pdf](https://github.com/ndupin/ORteaching/blob/main/OA1-optim-complexite.pdf)  : fondements de l'optimisation discrète, premiers algorithmes fondamentaux et techniques de modélisation pour l'optimisation linéaire
+- [OA1-optim-complexite.pdf](https://github.com/ndupin/ORteaching/blob/main/OA1-optim-complexite.pdf)  : fondements de l'optimisation discrète, premiers algorithmes fondamentaux et premières techniques de modélisation pour l'optimisation linéaire sur des variantes de problèmes de sac à dos.
 - [OA2-ProgDynamique.pdf](https://github.com/ndupin/ORteaching/blob/main/OA2-ProgDynamique.pdf) : algorithmes de programmation dynamique pour l'optimisation combiantoire, études de cas : problèmes de sacs à dos, plus court chemins, voyageur de commerce, clustering 1D et application industrielle de plannings d' horaires de train
 - OA3-PL-dualite.pdf : résolution de PL : résolution graphique à deux variables, algorithme du simplexe, éléments de théorie de la dualité
 - [OA4-model-PLNE.pdf](https://github.com/ndupin/ORteaching/blob/main/OA4-model-PLNE.pdf) : techniques générales pour linéariser et modéliser des problèmes d'optimisation complexes comme des PL/PLNE, applications aux problèmes d'affectation, de clustering, ordonnancement, et application à la production d'électricité.
